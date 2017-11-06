@@ -1,5 +1,6 @@
 package jp.ac.uryukyu.ie.e175723;
 
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
